@@ -1,0 +1,25 @@
+body {
+  background-color: #FAF9F9;
+}
+
+.jumbotron {
+  margin-top: 5em;
+  background-color: #89B0AE;
+  border: solid 2px #BEE3DB;
+  color: #555B6E;
+}
+
+.navbar {
+  background-color: #FFD6BA;
+  border: solid 2px #BEE3DB;
+
+}
+
+.navbar .navbar-text {
+  color: #555B6E;
+}
+
+h2 {
+  font-family: 'Cabin', sans-serif;
+  font-weight: 700;
+}
